@@ -6,3 +6,4 @@ $(function() {
         $('.rightside-menu').addClass('rightside-menu__close')
     })
 })
+console.log("test2");
